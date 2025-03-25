@@ -129,5 +129,5 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [NS](LICENSE).
+This project is licensed under the [nufaisahamed](LICENSE).
 ```
